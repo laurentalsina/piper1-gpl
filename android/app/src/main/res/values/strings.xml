@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Piper TTS</string>
+    <string name="tts_engine_label">Piper TTS Engine</string>
+    <string name="open_tts_settings">Open TTS Settings</string>
+</resources>
